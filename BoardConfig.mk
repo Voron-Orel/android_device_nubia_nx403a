@@ -58,7 +58,7 @@ BOARD_USES_LEGACY_MMAP := true
 EXTENDED_FONT_FOOTPRINT := true
 
 # Bionic
-MALLOC_IMPL := dlmalloc
+# MALLOC_IMPL := dlmalloc
 
 # Bootloader
 TARGET_NO_BOOTLOADER         := true
